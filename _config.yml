@@ -1,7 +1,7 @@
 name: Shankar
 favicon: null
 layout_spectrum: 0.37608343781903386
-typography_spectrum: 0.3502308581955731
+typography_spectrum: 0.91621
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6699329717084765
+    - '#fefefe'
+    - '#514a50'
+    - '#cccccc'
+    - '#1e1d22'
+    - '#7c7778'
+  brandStrength: 0.6875
   lightness: 0.5800708171445876
   saturation: 0.6755513814277947
   rhythmicContrast: 0.251337111229077
